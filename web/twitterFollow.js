@@ -38,7 +38,7 @@
     function fullLike() {
         return new Promise(function(resolve, reject) {
             var profiles = $('.ProfileCard').find('.not-following').find('.follow-button');
-            var FOLLOW_DELAY = 1000;
+            var FOLLOW_DELAY = 100;
             (function iterator(i) {
                 var scrollPosition = $(profiles[i]).closest('.Grid-cell').offset().top;
                 window.scrollTo(0, scrollPosition);
