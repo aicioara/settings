@@ -20,7 +20,7 @@
                     if (retries == MAX_RETRIES) {
                         window.scrollTo(0, 0);
                         resolve();
-                    }
+                    };
                     retries ++;
                     retryTimeout += RETRY_STEP;
                     setTimeout(scrollDown, retryTimeout);
@@ -32,15 +32,15 @@
                 oldHeight = document.body.scrollHeight;
                 setTimeout(scrollDown, retryTimeout);
             })();
-        })
+        });
     };
 
     function fullLike() {
         return new Promise(function(resolve, reject) {
-            var profiles = $('.ProfileCard').find('.not-following').find('.follow-button')
-            var FOLLOW_DELAY = 100;
+            var profiles = $('.ProfileCard').find('.not-following').find('.follow-button');
+            var FOLLOW_DELAY = 1000;
             (function iterator(i) {
-                var scrollPosition = $(profiles[i]).closest('.Grid-cell').offset().top
+                var scrollPosition = $(profiles[i]).closest('.Grid-cell').offset().top;
                 window.scrollTo(0, scrollPosition);
                 $(profiles[i]).click();
 
@@ -48,11 +48,10 @@
                     setTimeout(function() { iterator(i) }, FOLLOW_DELAY);
                 } else {
                     resolve();
-                }
+                };
             })(0);
         });
     };
-
 
     fullScroll().then(fullLike);
 })();
