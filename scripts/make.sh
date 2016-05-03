@@ -36,6 +36,10 @@ base_dir=`pwd`
 
 suffix=$(echo $src_dir | cut -c$((${#base_dir} + 2))-)
 
+if [ -z "$suffix" ]; then
+    suffix="."
+fi
+
 cd build
 cd $suffix
 
@@ -52,6 +56,5 @@ fi
 
 cmd=${bin_dir}/$@
 echo $cmd
-eval $cmd
-
-#TODO: need to redirect pipes as well
+$cmd
+# ${bin_dir}/DvsViewer ./configs/Live.cfg
