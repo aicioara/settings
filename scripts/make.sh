@@ -53,4 +53,5 @@ fi
 cmd=${bin_dir}/$@
 echo $cmd
 eval $cmd
-# ${bin_dir}/DvsViewer ./configs/Live.cfg
+
+#TODO: need to redirect pipes as well
