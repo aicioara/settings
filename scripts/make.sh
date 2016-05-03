@@ -52,4 +52,5 @@ fi
 
 cmd=${bin_dir}/$@
 echo $cmd
-${bin_dir}/DvsViewer ./configs/Live.cfg
+eval $cmd
+# ${bin_dir}/DvsViewer ./configs/Live.cfg
