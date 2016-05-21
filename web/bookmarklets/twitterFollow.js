@@ -1,0 +1,1 @@
+javascript: javascript: if (typeof andreiInterval !== 'undefined') {clearInterval(andreiInterval); andreiInterval = undefined; } else {andreiInterval = setInterval(function () {window.scrollTo(0,document.body.scrollHeight); $('.not-following .user-actions-follow-button.js-follow-btn').click(); }, 5000); }
