@@ -45,7 +45,7 @@ cd $suffix
 
 bin_dir=`pwd`
 
-make
+make -j 8
 MAKE_STATUS=$?
 
 cd $src_dir
