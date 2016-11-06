@@ -26,9 +26,14 @@
 
 	{ "keys": ["shift+tab"], "command": "unindent" },
 
-	{ "keys": ["ctrl+shift+space"], "command": "expand_selection", "args": {"to": "tag"} },
+	{ "keys": ["alt+shift+s"], "command": "expand_selection", "args": {"to": "scope"} },
 
+	{ "keys": ["ctrl+\\"], "command": "valign" },
+
+	{ "keys": ["alt+s"], "command": "indent" },
+	{ "keys": ["alt+a"], "command": "unindent" },
 	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } },
+
 
 	{}
 ]
