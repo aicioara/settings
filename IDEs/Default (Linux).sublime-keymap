@@ -20,7 +20,6 @@
 	{ "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
 	{ "keys": ["ctrl+n"], "command": "new_file" },
 
-	{ "keys": ["ctrl+e"], "command": "build" },
 	{ "keys": ["alt+shift+f"], "command": "reindent"},
 	{ "keys": ["f3"], "command": "goto_definition" },
 
@@ -28,12 +27,39 @@
 
 	{ "keys": ["alt+shift+s"], "command": "expand_selection", "args": {"to": "scope"} },
 
-	{ "keys": ["ctrl+\\"], "command": "valign" },
+  { "keys": ["alt+s"], "command": "indent" },
+  { "keys": ["alt+a"], "command": "unindent" },
+  { "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } },
 
-	{ "keys": ["alt+s"], "command": "indent" },
-	{ "keys": ["alt+a"], "command": "unindent" },
-	{ "keys": ["ctrl+shift+r"], "command": "reindent" , "args": { "single_line": false } },
+  // Packages
 
+  // Valign
+  { "keys": ["ctrl+\\"], "command": "valign" },
+
+  // Alignment
+	{ "keys": ["ctrl+shift+\\"], "command": "alignment" },
+
+	// Emmet
+	{
+    "keys": ["tab"], "command": "expand_abbreviation_by_tab", "context": [
+      {
+        "operand": "source.js",
+        "operator": "equal",
+        "match_all": true,
+        "key": "selector"
+	    },
+      {
+        "key": "selection_empty",
+        "operator": "equal",
+        "operand": true,
+        "match_all": true
+      }
+    ]
+	},
+	{ "keys": ["tab"], "command": "next_field", "context": [
+    { "key": "has_next_field", "operator": "equal", "operand": true }
+	]
+	},
 
 	{}
 ]

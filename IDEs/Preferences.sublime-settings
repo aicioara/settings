@@ -2,13 +2,43 @@
 	"always_show_minimap_viewport": true,
 	"auto_complete": false,
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"enable_tab_scrolling": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace"
+	],
+	"folder_exclude_patterns":
+	[
+		"node_modules",
+		".git"
+	],
 	"font_size": 9,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"jsdocs_simple_mode": true,
-	"tab_size": 4,
+	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false
