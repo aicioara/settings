@@ -32,13 +32,15 @@
 		"node_modules",
 		".git"
 	],
-	"font_size": 9,
+	"font_size": 10,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"jsdocs_simple_mode": true,
-	"tab_size": 2,
+	"tab_size": 4,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false
