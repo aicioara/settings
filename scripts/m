@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# https://stackoverflow.com/questions/14922960/is-there-an-easy-way-to-color-code-the-compiler-outputs
+# https://stackoverflow.com/questions/24734850/how-to-get-the-exit-status-of-the-first-command-in-a-pipe
+
+make ${@} 2>&1 | perl -wln -M'Term::ANSIColor' -e '
+m/Building|gcc|g++|\bCC\b|\bcc\b/ and print "\e[1;32m", "$_", "\e[0m"
+or
+m/Error/i and print "\e[1;91m", "$_", "\e[0m"
+or
+m/Warning/i and print "\e[1;93m", "$_", "\e[0m"
+or
+m/Linking|\.a\b/ and print "\e[1;36m", "$_", "\e[0m"
+or
+print; '
+exit ${PIPESTATUS[0]}
