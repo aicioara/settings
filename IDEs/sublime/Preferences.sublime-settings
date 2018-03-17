@@ -1,8 +1,12 @@
 {
+	"": "",
 	"always_show_minimap_viewport": true,
+	"anaconda_linting": false,
 	"auto_complete": false,
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"dictionary": "Packages/Language - English/en_US.dic",
+	"enable_docstrings_tooltip": false,
+	"enable_signatures_tooltip": false,
 	"enable_tab_scrolling": true,
 	"file_exclude_patterns":
 	[
@@ -30,7 +34,8 @@
 	"folder_exclude_patterns":
 	[
 		"node_modules",
-		".git"
+		".git",
+		"venv"
 	],
 	"font_size": 10,
 	"highlight_line": true,

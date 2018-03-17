@@ -20,6 +20,9 @@
 
     { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
     { "keys": ["ctrl+n"], "command": "new_file" },
+    { "keys": ["ctrl+v"], "command": "paste_and_indent" },
+    { "keys": ["ctrl+shift+v"], "command": "paste" },
+
 
     { "keys": ["f3"], "command": "goto_definition" },
     { "keys": ["f4"], "command": "jump_back" },
@@ -63,6 +66,13 @@
 
 
     // Packages
+
+    // Anaconda
+    {
+        "command": "anaconda_goto", "keys": ["f3"], "context": [
+            {"key": "selector", "operator": "equal", "operand": "source.python"}
+        ]
+    },
 
     // Valign
     { "keys": ["ctrl+\\"], "command": "valign" },
