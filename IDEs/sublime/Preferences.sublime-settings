@@ -1,13 +1,23 @@
 {
-	"": "",
-	"always_show_minimap_viewport": true,
-	"anaconda_linting": false,
-	"auto_complete": false,
+	// Appearance
+	"theme": "Default.sublime-theme",
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"font_size": 10,
+	"always_show_minimap_viewport": true,
+	"highlight_line": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"update_check": false,
+
+	// UX
+	"auto_complete": false,
+
+	// Misc
 	"dictionary": "Packages/Language - English/en_US.dic",
-	"enable_docstrings_tooltip": false,
-	"enable_signatures_tooltip": false,
 	"enable_tab_scrolling": true,
+
+	// Ignores
 	"file_exclude_patterns":
 	[
 		"*.pyc",
@@ -37,16 +47,23 @@
 		".git",
 		"venv"
 	],
-	"font_size": 10,
-	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+
+	/////////////
+	// Packages//
+	/////////////
+
+	// Anaconda
+	"anaconda_linting": false,
+	"enable_docstrings_tooltip": false,
+	"enable_signatures_tooltip": false,
+
+	// DocBlockr
 	"jsdocs_simple_mode": true,
-	"tab_size": 4,
-	"theme": "Default.sublime-theme",
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"update_check": false
+
+	// No need to worry about trailing comma above
+	"": ""
 }
