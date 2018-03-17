@@ -1,0 +1,3 @@
+# Link them to 
+# ln -s *  "~/.config/sublime-text-3/Packages/User" 
+
