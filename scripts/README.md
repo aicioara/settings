@@ -1,0 +1,1 @@
+Most of my scripts can be found at https://github.com/aicioara/dotfiles/tree/master/src/home/.scripts
