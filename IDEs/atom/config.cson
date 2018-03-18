@@ -1,0 +1,17 @@
+"*":
+  core:
+    audioBeep: false
+    automaticallyUpdate: false
+    disabledPackages: [
+      "autocomplete-atom-api"
+      "autocomplete-plus"
+      "markdown-preview"
+    ]
+  editor:
+    invisibles: {}
+    tabLength: 4
+    softWrap: true
+
+  welcome:
+    showOnStartup: false
+  wordcount: {}
