@@ -15,6 +15,12 @@
   "exception-reporting":
     userId: "34f61802-f6ad-446e-b28c-9224ca272097"
   "spell-check":
+    addKnownWords: true
+    knownWords: [
+      "internet"
+      "tl;dr"
+      "Instagram"
+    ]
     locales: [
       "en-US"
     ]
