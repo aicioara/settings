@@ -34,3 +34,4 @@
 '.platform-linux atom-text-editor':
     'ctrl-d': 'editor:delete-line'
     'ctrl-b': 'find-and-replace:select-next'
+    'ctrl-;': 'spell-check:toggle'
