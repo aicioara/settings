@@ -7,11 +7,12 @@
       "autocomplete-plus"
       "markdown-preview"
     ]
+    telemetryConsent: "no"
   editor:
     invisibles: {}
-    tabLength: 4
     softWrap: true
-
+    tabLength: 4
+  "spell-check": {}
   welcome:
     showOnStartup: false
   wordcount: {}
