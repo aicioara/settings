@@ -12,7 +12,7 @@
     { "keys": ["ctrl+space"], "command": "insert_best_completion", "args": {"default": "", "exact": true} },
     { "keys": ["ctrl+space"],
         "command": "insert_best_completion",
-        "args": {"default": "\t", "exact": true},
+        "args": {"default": "", "exact": true},
         "context": [
             { "key": "setting.tab_completion", "operator": "equal", "operand": true }
         ]
