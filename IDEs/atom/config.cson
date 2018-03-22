@@ -6,6 +6,8 @@
       "autocomplete-atom-api"
       "autocomplete-plus"
       "markdown-preview"
+      "github"
+      "git-diff"
     ]
     telemetryConsent: "no"
   editor:
@@ -20,6 +22,21 @@
       "internet"
       "tl;dr"
       "Instagram"
+      "Saharian"
+      "costed"
+      "GBP"
+      "Sibiu"
+      "Iulia"
+      "smartphone"
+      "smartphones"
+      "online"
+      "PDF"
+      "barcode"
+      "DSLRs"
+      "NHS"
+      "dodgy"
+      "Wizz"
+      "Luton"
     ]
     locales: [
       "en-US"

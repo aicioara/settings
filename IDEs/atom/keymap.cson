@@ -35,3 +35,6 @@
     'ctrl-d': 'editor:delete-line'
     'ctrl-b': 'find-and-replace:select-next'
     'ctrl-;': 'spell-check:toggle'
+
+    # Package specific
+    'alt-w': 'markdown-preview-plus:sync-preview'
