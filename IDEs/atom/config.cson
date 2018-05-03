@@ -37,10 +37,16 @@
       "dodgy"
       "Wizz"
       "Luton"
+      "Gamification"
+      "gamification"
+      "YouTube"
     ]
     locales: [
       "en-US"
     ]
   welcome:
     showOnStartup: false
-  wordcount: {}
+  wordcount:
+    currencysymbol: "min"
+    showprice: true
+    wordprice: "0.003773585"
