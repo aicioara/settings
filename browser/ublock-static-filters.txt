@@ -1,0 +1,5 @@
+! 14/05/2018, 13:27:39 https://www.messenger.com/
+www.messenger.com##._39bj > li:nth-of-type(5)
+
+! 17/05/2018 08:54:02 https://navigator-lxa.mail.com
+3c-lxa.mail.com##html.can-have-sky .section-content:style(margin-right: 0 !important;)
