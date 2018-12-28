@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+from pprint import pprint as pp; pp(${1})
+]]></content>
+<tabTrigger>pp</tabTrigger>
+<description>pprint</description>
+<scope>source.python</scope>
+</snippet>

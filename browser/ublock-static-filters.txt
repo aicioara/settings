@@ -1,5 +1,38 @@
-! 14/05/2018, 13:27:39 https://www.messenger.com/
+! 14/05/2018, 13:27:39
 www.messenger.com##._39bj > li:nth-of-type(5)
 
-! 17/05/2018 08:54:02 https://navigator-lxa.mail.com
+! 17/05/2018 08:54:02
 3c-lxa.mail.com##html.can-have-sky .section-content:style(margin-right: 0 !important;)
+
+! 27/05/2018, 14:07:12
+mail.yahoo.com###theAd
+
+! 27/05/2018, 22:58:25
+www.google.co.uk##.g.kno-kp.mnr-c.g-blk
+
+! 27/05/2018, 22:58:25
+www.google.com##.AUiS2
+
+! 27/05/2018, 22:58:25
+www.google.com##.exp-outline
+
+! 02/06/2018, 21:56:40
+trello.com##.header-btn.header-notifications.js-open-header-notifications-menu
+
+! 02/06/2018, 21:57:16
+trello.com##.js-attachments-section
+
+! 31/08/2018, 21:55:06
+www.amazon.co.uk##.gw-desktop-herotator
+
+! 08/11/2018, 16:10:09
+dev.to##.base-article-show-sidebar-variant > [href="/enter"]
+
+! 18/11/2018, 15:03:11
+www.forbes.com###brightcove_perform_0_html5_api
+
+! 18/11/2018, 15:03:22
+www.forbes.com###brightcove_perform_0
+
+! 28/12/2018, 11:25:40
+calendar.google.com##.jKgTF:style(border-radius: 0!important)

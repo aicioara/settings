@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+import sys; sys.stdin = open('/dev/tty'); import pdb; pdb.set_trace();
+]]></content>
+<tabTrigger>ppdb</tabTrigger>
+<description>Python Advanced Debugger</description>
+<scope>source.python</scope>
+</snippet>

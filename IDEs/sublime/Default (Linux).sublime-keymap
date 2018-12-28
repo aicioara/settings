@@ -102,6 +102,9 @@
     ]
     },
 
-    {}
+    // Max Pane
+    { "keys": ["alt+w"], "command": "max_pane" },
+    { "keys": ["ctrl+shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Add Line Before.sublime-macro"} },
+
 ]
 
