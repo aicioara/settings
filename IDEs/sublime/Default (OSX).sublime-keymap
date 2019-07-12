@@ -1,0 +1,114 @@
+[
+
+    { "keys": ["ctrl+s"], "command": "save" },
+    { "keys": ["ctrl+w"], "command": "close" },
+    { "keys": ["ctrl+shift+s"], "command": "prompt_save_as" },
+
+
+    { "keys": ["super+up"], "command": "swap_line_up" },
+    { "keys": ["super+down"], "command": "swap_line_down" },
+    { "keys": ["ctrl+shift+up"], "command": "duplicate_line" },
+    { "keys": ["ctrl+shift+down"], "command": "duplicate_line" },
+    { "keys": ["ctrl+left"], "command": "move", "args": {"by": "subwords", "forward": false} },
+    { "keys": ["ctrl+right"], "command": "move", "args": {"by": "subword_ends", "forward": true} },
+
+    { "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete Line.sublime-macro"} },
+    { "keys": ["ctrl+b"], "command": "find_under_expand" },
+
+    { "keys": ["ctrl+space"], "command": "insert_best_completion", "args": {"default": "", "exact": true} },
+    { "keys": ["ctrl+space"],
+        "command": "insert_best_completion",
+        "args": {"default": "", "exact": true},
+        "context": [
+            { "key": "setting.tab_completion", "operator": "equal", "operand": true }
+        ]
+    },
+
+    { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+    { "keys": ["ctrl+n"], "command": "new_file" },
+    { "keys": ["super+v"], "command": "paste_and_indent" },
+    { "keys": ["super+shift+v"], "command": "paste" },
+    { "keys": ["ctrl+shift+v"], "command": "paste" },
+
+
+    { "keys": ["f3"], "command": "goto_definition" },
+    { "keys": ["f4"], "command": "jump_back" },
+
+    { "keys": ["super+shift+s"], "command": "expand_selection", "args": {"to": "scope"} },
+
+    { "keys": ["ctrl+s"], "command": "indent" },
+    { "keys": ["ctrl+a"], "command": "unindent" },
+
+
+    // Layout
+    {
+        "keys": ["ctrl+super+shift+1"],
+        "command": "set_layout",
+        "args":
+        {
+            "cols": [0.0, 1.0],
+            "rows": [0.0, 1.0],
+            "cells": [[0, 0, 1, 1]]
+        }
+    },
+    {
+        "keys": ["ctrl+super+shift+2"],
+        "command": "set_layout",
+        "args":
+        {
+            "cols": [0.0, 0.5, 1.0],
+            "rows": [0.0, 1.0],
+            "cells": [[0, 0, 1, 1], [1, 0, 2, 1]]
+        }
+    },
+
+    { "keys": ["super+shift+1"], "command": "focus_group", "args": { "group": 0 } },
+    { "keys": ["super+shift+2"], "command": "focus_group", "args": { "group": 1 } },
+
+    { "keys": ["ctrl+1"], "command": "move_to_group", "args": { "group": 0 } },
+    { "keys": ["ctrl+2"], "command": "move_to_group", "args": { "group": 1 } },
+
+
+
+    // Packages
+
+    // Anaconda
+    {
+        "command": "anaconda_goto", "keys": ["f3"], "context": [
+            {"key": "selector", "operator": "equal", "operand": "source.python"}
+        ]
+    },
+
+    // Valign
+    { "keys": ["ctrl+\\"], "command": "valign" },
+
+    // Alignment
+    { "keys": ["super+shift+\\"], "command": "alignment" },
+
+    // Emmet
+    {
+        "keys": ["tab"], "command": "expand_abbreviation_by_tab", "context": [
+            {
+                "operand": "source.js",
+                "operator": "equal",
+                "match_all": true,
+                "key": "selector"
+            },
+            {
+                "key": "selection_empty",
+                "operator": "equal",
+                "operand": true,
+                "match_all": true
+            }
+        ]
+    },
+    { "keys": ["tab"], "command": "next_field", "context": [
+        { "key": "has_next_field", "operator": "equal", "operand": true }
+    ]
+    },
+
+    // Max Pane
+    { "keys": ["super+w"], "command": "max_pane" },
+    { "keys": ["ctrl+shift+enter"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Add Line Before.sublime-macro"} },
+
+]
