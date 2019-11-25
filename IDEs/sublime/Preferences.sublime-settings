@@ -1,7 +1,7 @@
 {
 	// External Updates
 	"theme": "Default.sublime-theme",
-	"font_size": 10,
+	"font_size": 17,
 
 	// Appearance
 	"always_show_minimap_viewport": true,
@@ -10,6 +10,7 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"update_check": false,
+	"scroll_past_end": true,
 
 	// UX
 	"auto_complete": false,
@@ -46,7 +47,9 @@
 	[
 		"node_modules",
 		".git",
-		"venv"
+		"venv",
+		"build",
+		"dist"
 	],
 	"ignored_packages":
 	[
