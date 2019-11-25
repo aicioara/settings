@@ -7,7 +7,18 @@
     "files.trimTrailingWhitespace": true,
     "editor.formatOnPaste": true,
     "editor.multiCursorModifier": "ctrlCmd",
-    "editor.snippetSuggestions": "top",
+
+    // Hints
+    "editor.quickSuggestions": false,
+    // "editor.parameterHints.enabled": false,
+    // "editor.snippetSuggestions": "inline",
+    // "editor.suggest.snippetsPreventQuickSuggestions": false,
+    // "html.suggest.html5": false,
+
     "editor.fontSize": 17,
-    "workbench.colorTheme": "Monokai"
+    "explorer.confirmDelete": false,
+
+    // Theming
+    "workbench.colorTheme": "Monokai",
+    "editor.matchBrackets": false,
 }
