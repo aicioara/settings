@@ -19,7 +19,7 @@ if [[ $? -eq 1 ]]; then
     exit 1
 fi
 
-# postDate=$(date -u +"%Y-%m-%d")
+# postDate=$(date +"%Y-%m-%d")
 filename="$postDate - $postTitle.txt"
 
 echo "touching $filename"
