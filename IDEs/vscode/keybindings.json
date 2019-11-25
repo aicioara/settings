@@ -1,0 +1,166 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+    {
+        "key": "ctrl+b",
+        "command": "-cursorLeft",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+b",
+        "command": "editor.action.addSelectionToNextFindMatch",
+        "when": "editorFocus"
+    },
+    {
+        "key": "cmd+d",
+        "command": "-editor.action.addSelectionToNextFindMatch",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "workbench.action.closeActiveEditor"
+    },
+    {
+        "key": "ctrl+w",
+        "command": "-workbench.action.switchWindow"
+    },
+    {
+        "key": "ctrl+shift+s",
+        "command": "workbench.action.files.saveAs"
+    },
+    {
+        "key": "shift+cmd+s",
+        "command": "-workbench.action.files.saveAs"
+    },
+    {
+        "key": "cmd+up",
+        "command": "editor.action.moveLinesUpAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+up",
+        "command": "-editor.action.moveLinesUpAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "cmd+up",
+        "command": "editor.action.moveLinesUpAction",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+cmd+up",
+        "command": "-editor.action.moveLinesUpAction",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+up",
+        "command": "editor.action.copyLinesUpAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+alt+up",
+        "command": "-editor.action.copyLinesUpAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+down",
+        "command": "editor.action.copyLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+alt+down",
+        "command": "-editor.action.copyLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+shift+down",
+        "command": "editor.action.copyLinesDownAction",
+        "when": "editorFocus"
+    },
+    {
+        "key": "shift+cmd+d",
+        "command": "-editor.action.copyLinesDownAction",
+        "when": "editorFocus"
+    },
+    {
+        "key": "cmd+down",
+        "command": "editor.action.moveLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "alt+down",
+        "command": "-editor.action.moveLinesDownAction",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "cmd+down",
+        "command": "editor.action.moveLinesDownAction",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+cmd+down",
+        "command": "-editor.action.moveLinesDownAction",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "shift+cmd+k",
+        "command": "-editor.action.deleteLines",
+        "when": "textInputFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+d",
+        "command": "editor.action.deleteLines",
+        "when": "editorFocus"
+    },
+    {
+        "key": "ctrl+shift+k",
+        "command": "-editor.action.deleteLines",
+        "when": "editorFocus"
+    },
+    {
+        "key": "f3",
+        "command": "editor.action.revealDefinition",
+        "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+    },
+    {
+        "key": "f12",
+        "command": "-editor.action.revealDefinition",
+        "when": "editorHasDefinitionProvider && editorTextFocus && !isInEmbeddedEditor"
+    },
+    {
+        "key": "f3",
+        "command": "editor.action.goToTypeDefinition"
+    },
+    {
+        "key": "f4",
+        "command": "workbench.action.navigateBack"
+    },
+    {
+        "key": "ctrl+-",
+        "command": "-workbench.action.navigateBack"
+    },
+    {
+        "key": "shift+cmd+s",
+        "command": "editor.action.smartSelect.expand",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+shift+right",
+        "command": "-editor.action.smartSelect.expand",
+        "when": "editorTextFocus"
+    },
+    {
+        "key": "ctrl+s",
+        "command": "editor.action.indentLines",
+        "when": "editorTextFocus && !editorReadonly"
+    },
+    {
+        "key": "ctrl+a",
+        "command": "editor.action.outdentLines",
+        "when": "editorTextFocus && !editorReadonly"
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "window.zoomLevel": 0,
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
+    "editor.scrollBeyondLastLine": true,
+    "editor.tabSize": 4,
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.fontSize": 17,
+    "workbench.colorTheme": "Monokai"
+}
