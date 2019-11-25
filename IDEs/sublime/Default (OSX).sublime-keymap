@@ -4,7 +4,6 @@
     { "keys": ["ctrl+w"], "command": "close" },
     { "keys": ["ctrl+shift+s"], "command": "prompt_save_as" },
 
-
     { "keys": ["super+up"], "command": "swap_line_up" },
     { "keys": ["super+down"], "command": "swap_line_down" },
     { "keys": ["ctrl+shift+up"], "command": "duplicate_line" },
@@ -24,11 +23,8 @@
         ]
     },
 
-    { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
-    { "keys": ["ctrl+n"], "command": "new_file" },
     { "keys": ["super+v"], "command": "paste_and_indent" },
     { "keys": ["super+shift+v"], "command": "paste" },
-    { "keys": ["ctrl+shift+v"], "command": "paste" },
 
 
     { "keys": ["f3"], "command": "goto_definition" },
