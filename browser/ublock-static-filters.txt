@@ -20,7 +20,16 @@ www.google.com##.exp-outline
 trello.com##.header-btn.header-notifications.js-open-header-notifications-menu
 
 ! 02/06/2018, 21:57:16
-trello.com##.js-attachments-section
+! trello.com##.js-attachments-section
+
+! 10/12/2021, 21:57:16
+trello.com##._3vSmjnurKPQk4F
+
+! 10/12/2021, 21:57:16
+trello.com##.collapsed-workspace-nav:style(padding-left: 0 !important;)
+
+! 10/12/2021, 21:57:16
+trello.com##.board-header.collapsed-workspace-nav:style(padding-left: 8px !important;)
 
 ! 31/08/2018, 21:55:06
 www.amazon.co.uk##.gw-desktop-herotator
@@ -36,3 +45,99 @@ www.forbes.com###brightcove_perform_0
 
 ! 28/12/2018, 11:25:40
 calendar.google.com##.jKgTF:style(border-radius: 0!important)
+
+! 1/2/2019, 6:17:44 PM
+www.messenger.com##._1htf
+
+! 1/8/2019, 8:09:45 PM https://www.messenger.com/t/andreiseicean
+||static.xx.fbcdn.net/rsrc.php/v3/y6/r/lBuqYY7H-PU.png$image
+
+! 1/8/2019, 8:10:02 PM https://www.messenger.com/t/andreiseicean
+www.messenger.com##._39bj > li:nth-of-type(7)
+
+! 1/9/2019, 10:55:23 AM https://www.mail.com/int/
+www.mail.com##.hero-view
+
+! 11/28/2019 https://react-pdf.org
+||react-pdf.org/static/images/logo.png$image
+
+! 4/10/2020 https://codingcompetitions.withgoogle.com
+codingcompetitions.withgoogle.com##.headline-3
+
+! 6/22/2020 https://www.facebook.com
+www.facebook.com##li.hw7htvoc.h676nmdw.dawyy4b1.jrc8bbd0.o5zgeu5y.to382e16.buofh1pr:nth-of-type(3) > .iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .l9j0dhe7.cb02d2ww.j83agx80.bp9cbjyn > .k4urcfbm.taijpn5t.pi1r6xr4.cbu4d94t.bp9cbjyn.p8dawk7l.abiwlrkh.l9j0dhe7.lzcic4wl.f1sip0of.esuyzwwr.i1ao9s8h.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.j83agx80.nhd2j8a9.rq0escxv.r7d6kgcz.e9989ue4.esr5mh6w.qu0x051f.g5ia77u1.oajrlxb2
+www.facebook.com##li.hw7htvoc.h676nmdw.dawyy4b1.jrc8bbd0.o5zgeu5y.to382e16.buofh1pr:nth-of-type(3) > .iyyx5f41.dhp61c6y.dp1hu0rb.owwhemhu.qowsmv63.cebpdrjk.bipmatt0.pk4s997a.q3lfd5jv.k5wvi7nf.t1p8iaqh.a8s20v7p.abs2jz4q.a6sixzi8.tojvnm2t > .l9j0dhe7.cb02d2ww.j83agx80.bp9cbjyn
+
+! 6/23/2020 https://web.whatsapp.com
+web.whatsapp.com##._1evad._2ne38._3kqUo
+
+! 2020-11-14 https://www.messenger.com
+www.messenger.com##._92bb
+
+! 2020-11-21 https://www.messenger.com
+! www.messenger.com#$#.o36gj0jk{width: 280px}
+
+! 2020-11-21 https://www.messenger.com
+www.messenger.com##.l3ldwz01.f6rbj1fe.sn0e7ne5.cxgpxx05.sj5x9vvc.scb9dxdr.dflh9lhu.btwxx1t3.owycx6da.bp9cbjyn.i1fnvgqd.hpfvmrgz.buofh1pr.rj1gh0hx.g5gj957u.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+
+! 2020-12-17 https://www.messenger.com
+www.messenger.com##.l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.a8c37x1j.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .scb9dxdr.dflh9lhu.btwxx1t3.bp9cbjyn.du4w35lb.l9j0dhe7.jb3vyjys.qt6c0cv9.hpfvmrgz.nnctdnn4.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .l9j0dhe7.btwxx1t3.bp9cbjyn.du4w35lb.jb3vyjys.a8nywdso.rz4wbd8a.qt6c0cv9.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .f10w8fjw.pybr56ya.rj1gh0hx.du4w35lb.l9j0dhe7.a8nywdso.rz4wbd8a.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.cbu4d94t.j83agx80.rq0escxv.auili1gw.ow4ym5g4.gs1a9yip > div > .irj2b8pg.ew0dbk1b.cbu4d94t.j83agx80 > div.knvmm38d.qzhwtbm6 > .hzawbc8m.m9osqain.knj5qynh.j5wam9gi.e9vueds3.mdeji52x.c8b282yb.mau55g9w.fe6kdd0r.d9wwppkn.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.fgxwclzu.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j > .j83agx80 > .m9osqain.knj5qynh.j5wam9gi.e9vueds3.fgxwclzu.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j
+www.messenger.com##.l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.a8c37x1j.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.i224opu6.gs1a9yip.oajrlxb2 > .scb9dxdr.dflh9lhu.btwxx1t3.bp9cbjyn.du4w35lb.l9j0dhe7.jb3vyjys.qt6c0cv9.hpfvmrgz.nnctdnn4.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .l9j0dhe7.btwxx1t3.bp9cbjyn.du4w35lb.jb3vyjys.a8nywdso.rz4wbd8a.qt6c0cv9.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .f10w8fjw.pybr56ya.rj1gh0hx.du4w35lb.l9j0dhe7.a8nywdso.rz4wbd8a.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.cbu4d94t.j83agx80.rq0escxv.auili1gw.ow4ym5g4.gs1a9yip > div > .irj2b8pg.ew0dbk1b.cbu4d94t.j83agx80 > div.knvmm38d.qzhwtbm6 > .hzawbc8m.m9osqain.knj5qynh.j5wam9gi.e9vueds3.mdeji52x.c8b282yb.mau55g9w.fe6kdd0r.d9wwppkn.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.fgxwclzu.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j > .j83agx80 > .m9osqain.knj5qynh.j5wam9gi.e9vueds3.fgxwclzu.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j
+
+! 2020-12-21 https://www.messenger.com
+www.messenger.com##.oo9gr5id.lrazzd5p.j5wam9gi.e9vueds3.fgxwclzu.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j
+
+! 2021-03-12 https://trello.com
+trello.com##.board-header-plugin-btns > .board-header-btn
+trello.com##.gHfYLDb3VOTs7z
+trello.com##._3UGUET12_BmdxK > div:nth-of-type(1)
+
+! 2021-03-24 https://www.messenger.com
+www.messenger.com##.l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.a8c37x1j.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .scb9dxdr.dflh9lhu.btwxx1t3.bp9cbjyn.du4w35lb.l9j0dhe7.jb3vyjys.qt6c0cv9.hpfvmrgz.nnctdnn4.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .l9j0dhe7.btwxx1t3.bp9cbjyn.du4w35lb.jb3vyjys.a8nywdso.rz4wbd8a.qt6c0cv9.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .f10w8fjw.pybr56ya.rj1gh0hx.du4w35lb.l9j0dhe7.a8nywdso.rz4wbd8a.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.cbu4d94t.j83agx80.rq0escxv.auili1gw.ow4ym5g4.gs1a9yip > div > .irj2b8pg.ew0dbk1b.cbu4d94t.j83agx80 > div.knvmm38d.qzhwtbm6 > .hzawbc8m.m9osqain.knj5qynh.j5wam9gi.e9vueds3.mdeji52x.c8b282yb.mau55g9w.fe6kdd0r.d9wwppkn.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j > .j83agx80 > .m9osqain.knj5qynh.j5wam9gi.e9vueds3.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j
+www.messenger.com##.l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.a8c37x1j.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.i224opu6.gs1a9yip.oajrlxb2 > .scb9dxdr.dflh9lhu.btwxx1t3.bp9cbjyn.du4w35lb.l9j0dhe7.jb3vyjys.qt6c0cv9.hpfvmrgz.nnctdnn4.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .l9j0dhe7.btwxx1t3.bp9cbjyn.du4w35lb.jb3vyjys.a8nywdso.rz4wbd8a.qt6c0cv9.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .f10w8fjw.pybr56ya.rj1gh0hx.du4w35lb.l9j0dhe7.a8nywdso.rz4wbd8a.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.cbu4d94t.j83agx80.rq0escxv.auili1gw.ow4ym5g4.gs1a9yip > div > .irj2b8pg.ew0dbk1b.cbu4d94t.j83agx80 > div.knvmm38d.qzhwtbm6 > .hzawbc8m.m9osqain.knj5qynh.j5wam9gi.e9vueds3.mdeji52x.c8b282yb.mau55g9w.fe6kdd0r.d9wwppkn.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j > .j83agx80 > .m9osqain.knj5qynh.j5wam9gi.e9vueds3.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j
+
+! 2021-03-26 https://www.messenger.com
+www.messenger.com##.oo9gr5id.lrazzd5p.j5wam9gi.e9vueds3.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j
+
+! 2021-04-13 https://www.messenger.com
+www.messenger.com##.l3ldwz01.f6rbj1fe.sn0e7ne5.srn514ro.rl78xhln.c4m0enpj.s9xz0pwp.btwxx1t3.owycx6da.bp9cbjyn.i1fnvgqd.hpfvmrgz.buofh1pr.rj1gh0hx.g5gj957u.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+
+! 2021-04-26 https://ib.btrl.ro
+||ib.btrl.ro/BT24/bfo/channel/web/skins/btr/btrimages/progress-ib.gif$image
+
+! 2021-08-09 https://www.messenger.com
+www.messenger.com##.p8dawk7l.iihba337.usczdcwk.jb3vyjys.qt6c0cv9.lt9micmv.gl4o1x5y.btwxx1t3.owycx6da.bp9cbjyn.i1fnvgqd.hpfvmrgz.buofh1pr.rj1gh0hx.g5gj957u.j83agx80.du4w35lb.l9j0dhe7.rq0escxv
+
+! 2021-08-23 https://www.messenger.com
+www.messenger.com##.l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.a8c37x1j.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.g5ia77u1.gs1a9yip.oajrlxb2 > .scb9dxdr.dflh9lhu.btwxx1t3.bp9cbjyn.du4w35lb.l9j0dhe7.jb3vyjys.qt6c0cv9.hpfvmrgz.nnctdnn4.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .l9j0dhe7.btwxx1t3.bp9cbjyn.du4w35lb.jb3vyjys.a8nywdso.rz4wbd8a.qt6c0cv9.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .f10w8fjw.pybr56ya.rj1gh0hx.du4w35lb.l9j0dhe7.a8nywdso.rz4wbd8a.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.cbu4d94t.j83agx80.rq0escxv.auili1gw.ow4ym5g4.gs1a9yip > div > .irj2b8pg.ew0dbk1b.cbu4d94t.j83agx80 > div.knvmm38d.qzhwtbm6 > .hzawbc8m.m9osqain.b1v8xokw.j5wam9gi.e9vueds3.mdeji52x.c8b282yb.mau55g9w.fe6kdd0r.d9wwppkn.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j > .m9osqain.j83agx80.bp9cbjyn > .m9osqain.b1v8xokw.j5wam9gi.e9vueds3.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j
+www.messenger.com##.l82x9zwi.uo3d90p7.pw54ja7n.ue3kfks5.p8dawk7l.abiwlrkh.lzcic4wl.du4w35lb.f1sip0of.esuyzwwr.i1ao9s8h.l9j0dhe7.a8nywdso.qt6c0cv9.rz4wbd8a.jb3vyjys.hpfvmrgz.tgvbjcpo.hcukyx3x.oygrvhab.cxmmr5t8.kvgmc6g5.p7hjln8o.pfnyh3mw.btwxx1t3.mg4g778l.a8c37x1j.nhd2j8a9.rq0escxv.sk4xxmp2.agehan2d.n8ej3o3l.rt8b4zig.mk2mc5f4.s44p3ltw.ccm00jje.goun2846.ppp5ayq2.qensuy8j.tlpljxtp.mtkw9kbi.i224opu6.gs1a9yip.oajrlxb2 > .scb9dxdr.dflh9lhu.btwxx1t3.bp9cbjyn.du4w35lb.l9j0dhe7.jb3vyjys.qt6c0cv9.hpfvmrgz.nnctdnn4.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .l9j0dhe7.btwxx1t3.bp9cbjyn.du4w35lb.jb3vyjys.a8nywdso.rz4wbd8a.qt6c0cv9.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.j83agx80.rq0escxv.auili1gw.ow4ym5g4 > .f10w8fjw.pybr56ya.rj1gh0hx.du4w35lb.l9j0dhe7.a8nywdso.rz4wbd8a.hpfvmrgz.tgvbjcpo.kvgmc6g5.hcukyx3x.cxmmr5t8.oygrvhab.i1fnvgqd.g5gj957u.buofh1pr.cbu4d94t.j83agx80.rq0escxv.auili1gw.ow4ym5g4.gs1a9yip > div > .irj2b8pg.ew0dbk1b.cbu4d94t.j83agx80 > div.knvmm38d.qzhwtbm6 > .hzawbc8m.m9osqain.b1v8xokw.j5wam9gi.e9vueds3.mdeji52x.c8b282yb.mau55g9w.fe6kdd0r.d9wwppkn.aigsh9s9.nxhoafnm.keod5gw0.a8c37x1j.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j > .m9osqain.j83agx80.bp9cbjyn > .m9osqain.b1v8xokw.j5wam9gi.e9vueds3.ht8s03o8.ik7dh3pa.oi732d6d.c1et5uql.qv66sw1b.hpfvmrgz.d2edcug0 > .g0qnabr5.ltmttdrg.l9j0dhe7.stjgntxs.ni8dbmo4.a8c37x1j
+
+! 2021-09-06 https://www.mail.com
+www.mail.com##.dialogContent
+www.mail.com##.dialogWrapper
+www.mail.com##.dialogOverlay
+
+! 2021-11-06 https://trello.com
+trello.com##.js-open-manage-board-members.board-header-btn-invite-experiment-v1
+
+! 2021-12-05 https://trello.com
+trello.com##.js-open-manage-board-members.board-header-btn-invite
+
+! No URL resolver
+||api-gateway.trello.com/gateway/api/object-resolver/resolve/batch^
+
+! 2022-01-18 https://www.messenger.com no chat previews
+www.messenger.com##.bp9cbjyn.j83agx80.m9osqain
+
+! 2022-04-14 https://trello.com
+trello.com##.board-share-button > .js-react-root
+
+! 2022-07-04 https://trello.com
+trello.com##.JIXQq8gDYY04N6.Ts\+YceGnvTbKoG.AQDrwURi8ZhQfH
+
+! 2022-08-21 https://www.messenger.com
+www.messenger.com##.qbvjirod.n68fow1o.ejhi0i36.pvreidsc.kmwttqpk.kjdc1dyq.l7ghb35v.m8h3af8h.b6ax4al1.ta68dy8c.kpwa50dg.m0cukt09.h8391g91.icdlwmnq.l3ldwz01.f14ij5to.jl2a5g8c.g4tp4svg.s3jn8y49.rn8ck1ys.cr00lzj9.om3e55n1.aeinzg81.dnr7xe2t.s5oniofx.jez8cy9q.tgm57n0e.fsf7x5fv.bdao358l.r7bn319e.djs4p424.bonavkto.frfouenu.bf1zulr9.lxqftegz.s9ljgwtm.s9ok87oh.gkg15gwv.tghlliq5.flwp5yud.tav9wjvu.nu7423ey.o9w3sbdw.qi72231t > .aeinzg81.jcxyg2ei.cgu29s5g.cqf1kptm.alzwoclg.o9w3sbdw.g4tp4svg.om3e55n1.bdao358l > .jl2a5g8c.sr926ui1.i85zmo3j.sl27f92c.jez8cy9q.alzwoclg.g4tp4svg.om3e55n1.bdao358l > .tgm57n0e.jl2a5g8c.o7bt71qk.i85zmo3j.sl27f92c.aeinzg81.i15ihif8.cgu29s5g.alzwoclg.g4tp4svg.om3e55n1.bdao358l > .cgu29s5g.aeinzg81.gvxzyvdx.jez8cy9q.cqf1kptm.alzwoclg.g4tp4svg.om3e55n1.bdao358l > div > .p4zypb3t.rtxb060y.alzwoclg.i85zmo3j
+
+! 2022-08-24 https://app.gitbook.com
+app.gitbook.com##.r-105ug2t
+
