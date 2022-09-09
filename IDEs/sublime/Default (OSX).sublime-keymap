@@ -4,6 +4,7 @@
     { "keys": ["ctrl+w"], "command": "close" },
     { "keys": ["ctrl+shift+s"], "command": "prompt_save_as" },
 
+
     { "keys": ["super+up"], "command": "swap_line_up" },
     { "keys": ["super+down"], "command": "swap_line_down" },
     { "keys": ["ctrl+shift+up"], "command": "duplicate_line" },
@@ -23,12 +24,18 @@
         ]
     },
 
+    { "keys": ["ctrl+t"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+    { "keys": ["ctrl+n"], "command": "new_file" },
     { "keys": ["super+v"], "command": "paste_and_indent" },
     { "keys": ["super+shift+v"], "command": "paste" },
+    { "keys": ["ctrl+shift+v"], "command": "paste" },
 
 
+    { "keys": ["f2"], "command": "goto_reference" },
     { "keys": ["f3"], "command": "goto_definition" },
     { "keys": ["f4"], "command": "jump_back" },
+    { "keys": ["f5"], "command": "jump_forward" },
+
 
     { "keys": ["super+shift+s"], "command": "expand_selection", "args": {"to": "scope"} },
 
@@ -83,7 +90,7 @@
 
     // Emmet
     {
-        "keys": ["tab"], "command": "expand_abbreviation_by_tab", "context": [
+        "keys": ["super+e"], "command": "expand_abbreviation_by_tab", "context": [
             {
                 "operand": "source.js",
                 "operator": "equal",
@@ -98,10 +105,9 @@
             }
         ]
     },
-    { "keys": ["tab"], "command": "next_field", "context": [
+    { "keys": ["super+e"], "command": "next_field", "context": [
         { "key": "has_next_field", "operator": "equal", "operand": true }
-    ]
-    },
+    ]},
 
     // Max Pane
     { "keys": ["super+w"], "command": "max_pane" },
