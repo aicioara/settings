@@ -1,0 +1,7 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "autoPairBrackets": false,
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current"
+}
