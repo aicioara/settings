@@ -42,7 +42,6 @@
     { "keys": ["ctrl+s"], "command": "indent" },
     { "keys": ["ctrl+a"], "command": "unindent" },
 
-
     // Layout
     {
         "keys": ["ctrl+super+shift+1"],
@@ -105,9 +104,9 @@
             }
         ]
     },
-    { "keys": ["super+e"], "command": "next_field", "context": [
-        { "key": "has_next_field", "operator": "equal", "operand": true }
-    ]},
+    // { "keys": ["super+e"], "command": "next_field", "context": [
+    //     { "key": "has_next_field", "operator": "equal", "operand": true }
+    // ]},
 
     // Max Pane
     { "keys": ["super+w"], "command": "max_pane" },
