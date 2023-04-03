@@ -1,15 +1,30 @@
 {
-    "window.zoomLevel": 0,
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
+    "window.zoomLevel": 0.2,
+
+    "editor.formatOnPaste": true,
+    "editor.minimap.showSlider": "always",
+    "editor.multiCursorModifier": "ctrlCmd",
     "editor.scrollBeyondLastLine": true,
+    "editor.smoothScrolling": true,
     "editor.tabSize": 4,
     "files.trimTrailingWhitespace": true,
-    "editor.formatOnPaste": true,
-    "editor.multiCursorModifier": "ctrlCmd",
+    "git.openRepositoryInParentFolders": "never",
+
+    // Updates
+    "extensions.autoCheckUpdates": false,
+    "update.mode": "none",
+    "extensions.autoUpdate": false,
+
+    // Telemetry
+    "telemetry.enableCrashReporter": false,
+    "telemetry.enableTelemetry": false,
 
     // Hints
-    "editor.quickSuggestions": false,
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
     // "editor.parameterHints.enabled": false,
     // "editor.snippetSuggestions": "inline",
     // "editor.suggest.snippetsPreventQuickSuggestions": false,
@@ -20,5 +35,14 @@
 
     // Theming
     "workbench.colorTheme": "Monokai",
-    "editor.matchBrackets": false,
+    "editor.matchBrackets": "never",
+
+    // Plugins
+    "[dockerfile]": {
+        "editor.quickSuggestions": {
+            "comments": "off",
+            "strings": "off",
+            "other": "off"
+        }
+    },
 }
