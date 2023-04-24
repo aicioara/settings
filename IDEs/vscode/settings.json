@@ -1,14 +1,38 @@
 {
+    // Sizes
     "window.zoomLevel": 0.2,
-
-    "editor.formatOnPaste": true,
-    "editor.minimap.showSlider": "always",
-    "editor.multiCursorModifier": "ctrlCmd",
-    "editor.scrollBeyondLastLine": true,
-    "editor.smoothScrolling": true,
     "editor.tabSize": 4,
+    "workbench.tree.indent": 16, // Notice tabs easier
+
+    // Theming
+    "workbench.colorTheme": "Monokai",
+    "editor.matchBrackets": "never",
+    "editor.minimap.showSlider": "always",
+    "editor.smoothScrolling": true,
+    "workbench.list.smoothScrolling": true,
+    "editor.scrollBeyondLastLine": true,
+
+    // Sane defaults
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": false,
+    "editor.copyWithSyntaxHighlighting": false,
+    "editor.multiCursorModifier": "ctrlCmd",
     "files.trimTrailingWhitespace": true,
     "git.openRepositoryInParentFolders": "never",
+    "explorer.confirmDelete": false,
+    "search.collapseResults": "alwaysExpand",
+    "interactiveWindow.collapseCellInputCode": "always",
+
+    // Hints
+    "editor.quickSuggestions": {
+        "comments": "off",
+        "strings": "off",
+        "other": "off"
+    },
+    "editor.snippetSuggestions": "top",
+    // "editor.parameterHints.enabled": false,
+    // "editor.suggest.snippetsPreventQuickSuggestions": false,
+    // "html.suggest.html5": false,
 
     // Updates
     "extensions.autoCheckUpdates": false,
@@ -19,24 +43,6 @@
     "telemetry.enableCrashReporter": false,
     "telemetry.enableTelemetry": false,
 
-    // Hints
-    "editor.quickSuggestions": {
-        "comments": "off",
-        "strings": "off",
-        "other": "off"
-    },
-    // "editor.parameterHints.enabled": false,
-    // "editor.snippetSuggestions": "inline",
-    // "editor.suggest.snippetsPreventQuickSuggestions": false,
-    // "html.suggest.html5": false,
-
-    "editor.fontSize": 17,
-    "explorer.confirmDelete": false,
-
-    // Theming
-    "workbench.colorTheme": "Monokai",
-    "editor.matchBrackets": "never",
-
     // Plugins
     "[dockerfile]": {
         "editor.quickSuggestions": {
@@ -45,4 +51,24 @@
             "other": "off"
         }
     },
+
+    "go": {
+        "formatTool": "goimports",
+        "lintOnSave": "off",
+        "useLanguageServer": false,
+        "gotoSymbol.ignoreFolders": [
+            "pkg",
+        ],
+        "installDependenciesWhenBuilding": false,
+    },
+
+    "rust-analyzer": {
+        "hover.documentation.enable": false,
+        "hover.documentation.keywords.enable": false,
+        "inlayHints.typeHints.enable": false,
+        "inlayHints.parameterHints.enable": false,
+    },
+
+    // New stuff after this line, to find easier
+    "editor.fontSize": 17,
 }
