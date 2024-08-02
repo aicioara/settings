@@ -5,14 +5,19 @@
     "workbench.tree.indent": 16, // Notice tabs easier
 
     // Theming
-    "workbench.colorTheme": "Monokai",
+    "workbench.colorTheme": "Dracula Theme",
     "editor.matchBrackets": "never",
     "editor.minimap.showSlider": "always",
-    "editor.smoothScrolling": true,
-    "workbench.list.smoothScrolling": true,
     "editor.scrollBeyondLastLine": true,
 
+    // User Experience
+    "workbench.list.smoothScrolling": false,
+    "editor.mouseWheelScrollSensitivity": 0.2, // Sane scrolling
+    "workbench.list.mouseWheelScrollSensitivity": 0.2, // Sane scrolling outside code
+
     // Sane defaults
+    "workbench.startupEditor": "none", // No startup screen
+    "workbench.settings.editor": "json", // Always start in the JSON, not the UI
     "editor.formatOnPaste": true,
     "editor.formatOnSave": false,
     "editor.copyWithSyntaxHighlighting": false,
@@ -40,8 +45,7 @@
     "extensions.autoUpdate": false,
 
     // Telemetry
-    "telemetry.enableCrashReporter": false,
-    "telemetry.enableTelemetry": false,
+    "telemetry.telemetryLevel": "off",
 
     // Plugins
     "[dockerfile]": {
@@ -51,7 +55,6 @@
             "other": "off"
         }
     },
-
     "go": {
         "formatTool": "goimports",
         "lintOnSave": "off",
@@ -61,14 +64,16 @@
         ],
         "installDependenciesWhenBuilding": false,
     },
-
-    "rust-analyzer": {
-        "hover.documentation.enable": false,
-        "hover.documentation.keywords.enable": false,
-        "inlayHints.typeHints.enable": false,
-        "inlayHints.parameterHints.enable": false,
-    },
+    "rust-analyzer.hover.documentation.enable": false,
+    "rust-analyzer.hover.documentation.keywords.enable": false,
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "rust-analyzer.inlayHints.parameterHints.enable": false,
+    "rust-analyzer.diagnostics.warningsAsHint": [
+        "dead_code",
+    ],
+    "rust-analyzer.lens.implementations.enable": false,
 
     // New stuff after this line, to find easier
     "editor.fontSize": 17,
+    "files.autoSave": "onFocusChange",
 }
