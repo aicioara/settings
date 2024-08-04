@@ -5,9 +5,14 @@
   "attachmentFolderPath": "./attachments",
   "newFileLocation": "current",
   "pdfExportSettings": {
-    "pageSize": "Letter",
+    "includeName": true,
+    "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
-  }
+    "downscalePercent": 75
+  },
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "absolute",
+  "autoPairMarkdown": false
 }
