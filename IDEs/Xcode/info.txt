@@ -1,0 +1,14 @@
+IDETextKeyBindingSet.plist 
+
+originates from 
+
+/Applications/Xcode.app/Contents/Frameworks/IDEKit.framework/Resources/IDETextKeyBindingSet.plist
+
+
+------------
+
+AndreiCioara.idekeybindings
+
+originates from 
+
+~/Library/Developer/Xcode/UserData/KeyBindings

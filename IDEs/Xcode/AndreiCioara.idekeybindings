@@ -1,0 +1,1284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Menu Key Bindings</key>
+	<dict>
+		<key>Key Bindings</key>
+		<array>
+			<dict>
+				<key>Action</key>
+				<string>duplicate:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.Duplicate</string>
+				<key>Group</key>
+				<string>Edit Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Duplicate</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>jumpToLine:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEKit.CmdDefinition.JumpTo</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.JumpTo</string>
+				<key>Group</key>
+				<string>Navigate Menu for Commit Sheet</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Navigate</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^g</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Jump to…</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>jumpToLine:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEKit.CmdDefinition.JumpTo</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.JumpTo</string>
+				<key>Group</key>
+				<string>Navigate Menu for Documentation</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.DocViewingNavigateMenu</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^g</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Jump to…</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>jumpToLine:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEKit.CmdDefinition.JumpTo</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.JumpTo</string>
+				<key>Group</key>
+				<string>Navigate Menu for Playground</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusPlaygroundEditor.MenuDefinition.Navigate</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^g</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Jump to…</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>jumpToLine:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEKit.CmdDefinition.JumpTo</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.JumpTo</string>
+				<key>Group</key>
+				<string>Navigate Menu for Source Code</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Navigate</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^g</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Jump to…</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>openLibrary:</string>
+				<key>Alternate</key>
+				<string>YES</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.Libraries.OpenLibrary</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^~$@U</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Open Library</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>showLibrary:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.Libraries.ShowLibrary</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^$@U</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Library</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>changeToBreakpointsNavigator:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.NavigatorsBreakpoints</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Navigators</string>
+				<key>Title</key>
+				<string>Breakpoints</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>changeToDebuggerNavigator:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.NavigatorsDebugger</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Navigators</string>
+				<key>Title</key>
+				<string>Debug</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>changeToFindNavigator:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.NavigatorsFind</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Navigators</string>
+				<key>Title</key>
+				<string>Find</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>changeToIssuesNavigator:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.NavigatorsIssues</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Navigators</string>
+				<key>Title</key>
+				<string>Issues</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>changeToLogsNavigator:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.NavigatorsLogs</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Navigators</string>
+				<key>Title</key>
+				<string>Reports</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>changeToStructureNavigator:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.NavigatorsStructure</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Navigators</string>
+				<key>Title</key>
+				<string>Project</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>changeToSymbolsNavigator:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.NavigatorsSymbols</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Navigators</string>
+				<key>Title</key>
+				<string>Symbols</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>changeToTestNavigator:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.NavigatorsTest</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Navigators</string>
+				<key>Title</key>
+				<string>Tests</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>changeToWorkingCopiesNavigator:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.NavigatorsWorkingCopies</string>
+				<key>Group</key>
+				<string>View Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Navigators</string>
+				<key>Title</key>
+				<string>Source Control</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>newTab:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.NewWindowTab</string>
+				<key>Group</key>
+				<string>File Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>New</string>
+				<key>Title</key>
+				<string>Window Tab</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>openQuickly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.OpenQuickly</string>
+				<key>Group</key>
+				<string>File Menu</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.Main</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>@t</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Open Quickly…</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Data Model</string>
+				<key>GroupID</key>
+				<string>Xcode.IDECoreDataModeler.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for GPU Counters</string>
+				<key>GroupID</key>
+				<string>GPUDebugger.GPUCounters.EditorMenuDefinition</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>GPUDebugger.StandardAndAssistant.EditorMenuDefinition.Title Menu for GPU Frame Debugger</string>
+				<key>GroupID</key>
+				<string>GPUDebugger.StandardAndAssistant.EditorMenuDefinition</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Hex</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEHexEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Integration Report Commits</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.EditorDocument.MenuDefinition.EditorOnlyPlusAssistant</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Interface Builder - Storyboard</string>
+				<key>GroupID</key>
+				<string>Xcode.InterfaceBuilderKit.DocumentEditorMenu</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Interface Builder Cocoa Preview</string>
+				<key>GroupID</key>
+				<string>Xcode.InterfaceBuilderKit.DocumentEditorMenu</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Log Viewer</string>
+				<key>GroupID</key>
+				<string>Xcode.IDELogNavigator.MenuDefinition.LogEditor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Machine learning model</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.EditorDocument.MenuDefinition.EditorOnlyPlusAssistant</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Mapping Model</string>
+				<key>GroupID</key>
+				<string>Xcode.IDECoreDataMappingModeler.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>GPUDebugger.MemoryReport.EditorMenuDefinition.Title Menu for Memory</string>
+				<key>GroupID</key>
+				<string>GPUDebugger.MemoryReport.EditorMenuDefinition</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>GPUDebugger.GPUTimeline.EditorMenuDefinition.Title Menu for Performance</string>
+				<key>GroupID</key>
+				<string>GPUDebugger.GPUTimeline.EditorMenuDefinition</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Playground</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusPlaygroundEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Property List</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPlistEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for RTF</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEKit.MenuDefinition.RTFEditorEditorMenu</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for SiriKit Intent Definition</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEIntentBuilderEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Code</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Control History</string>
+				<key>GroupID</key>
+				<string>Xcode.IDESourceControlUI.MenuDefinition.WorkingCopyEditor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for SpriteKit Scene Editor</string>
+				<key>GroupID</key>
+				<string>Xcode.SpriteKit.Scene.Editor.MenuDefinition</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for View Hierarchy</string>
+				<key>GroupID</key>
+				<string>Xcode.DBGViewDebuggerEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Xcode.IDELogNavigator.MenuDefinition.EditorAndOpenInWorkspace Menu for Xcode.IDEKit.EditorDocument.CoverageReportDocument-title</string>
+				<key>GroupID</key>
+				<string>Xcode.IDELogNavigator.MenuDefinition.EditorAndOpenInWorkspace</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>_showEditorOnly:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEKit.CmdDefinition.ShowStandardEditor</string>
+				<key>Group</key>
+				<string>Editor Menu for Xcode.IDEKit.EditorDocument.XcodeCloud.BuildReport.Title</string>
+				<key>GroupID</key>
+				<string>Xcode.XcodeCloud.DocumentEditorMenu</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Title</key>
+				<string>Show Editor Only</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>moveCurrentLineDown:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineDown</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineDown</string>
+				<key>Group</key>
+				<string>Editor Menu for Asset Catalog Comparison</string>
+				<key>GroupID</key>
+				<string>Xcode.DeltaComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>@</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Move Line Down</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>moveCurrentLineDown:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineDown</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineDown</string>
+				<key>Group</key>
+				<string>Editor Menu for Playground</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusPlaygroundEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>@</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Move Line Down</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>moveCurrentLineDown:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineDown</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineDown</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Code</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>@</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Move Line Down</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>moveCurrentLineDown:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineDown</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineDown</string>
+				<key>Group</key>
+				<string>Editor Menu for Stickers</string>
+				<key>GroupID</key>
+				<string>Xcode.DeltaComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>@</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Move Line Down</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>moveCurrentLineUp:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineUp</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineUp</string>
+				<key>Group</key>
+				<string>Editor Menu for Asset Catalog Comparison</string>
+				<key>GroupID</key>
+				<string>Xcode.DeltaComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>@</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Move Line Up</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>moveCurrentLineUp:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineUp</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineUp</string>
+				<key>Group</key>
+				<string>Editor Menu for Playground</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusPlaygroundEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>@</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Move Line Up</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>moveCurrentLineUp:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineUp</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineUp</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Code</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>@</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Move Line Up</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>moveCurrentLineUp:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineUp</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.MoveLineUp</string>
+				<key>Group</key>
+				<string>Editor Menu for Stickers</string>
+				<key>GroupID</key>
+				<string>Xcode.DeltaComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>@</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Move Line Up</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>selectColumnDown:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.SelectColumnDown</string>
+				<key>Group</key>
+				<string>Editor Menu for Asset Catalog Comparison</string>
+				<key>GroupID</key>
+				<string>Xcode.DeltaComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>$@L</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Selection</string>
+				<key>Title</key>
+				<string>Select Column Down</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>selectColumnDown:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.SelectColumnDown</string>
+				<key>Group</key>
+				<string>Editor Menu for Playground</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusPlaygroundEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>$@L</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Selection</string>
+				<key>Title</key>
+				<string>Select Column Down</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>selectColumnDown:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.SelectColumnDown</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Code</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>$@L</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Selection</string>
+				<key>Title</key>
+				<string>Select Column Down</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>selectColumnDown:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.SelectColumnDown</string>
+				<key>Group</key>
+				<string>Editor Menu for Stickers</string>
+				<key>GroupID</key>
+				<string>Xcode.DeltaComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>$@L</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Selection</string>
+				<key>Title</key>
+				<string>Select Column Down</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>shiftLeft:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftLeft</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftLeft</string>
+				<key>Group</key>
+				<string>Editor Menu for Asset Catalog Comparison</string>
+				<key>GroupID</key>
+				<string>Xcode.DeltaComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^a</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Shift Left</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>shiftLeft:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftLeft</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftLeft</string>
+				<key>Group</key>
+				<string>Editor Menu for Playground</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusPlaygroundEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^a</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Shift Left</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>shiftLeft:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftLeft</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftLeft</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Code</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^a</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Shift Left</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>shiftLeft:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftLeft</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftLeft</string>
+				<key>Group</key>
+				<string>Editor Menu for Stickers</string>
+				<key>GroupID</key>
+				<string>Xcode.DeltaComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^a</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Shift Left</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>shiftRight:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftRight</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftRight</string>
+				<key>Group</key>
+				<string>Editor Menu for Asset Catalog Comparison</string>
+				<key>GroupID</key>
+				<string>Xcode.DeltaComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^s</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Shift Right</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>shiftRight:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftRight</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftRight</string>
+				<key>Group</key>
+				<string>Editor Menu for Playground</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusPlaygroundEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^s</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Shift Right</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>shiftRight:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftRight</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftRight</string>
+				<key>Group</key>
+				<string>Editor Menu for Source Code</string>
+				<key>GroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^s</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Shift Right</string>
+			</dict>
+			<dict>
+				<key>Action</key>
+				<string>shiftRight:</string>
+				<key>Alternate</key>
+				<string>NO</string>
+				<key>CommandGroupID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftRight</string>
+				<key>CommandID</key>
+				<string>Xcode.IDEPegasusSourceEditor.CmdDefinition.ShiftRight</string>
+				<key>Group</key>
+				<string>Editor Menu for Stickers</string>
+				<key>GroupID</key>
+				<string>Xcode.DeltaComparisonEditor.MenuDefinition.Editor</string>
+				<key>GroupedAlternate</key>
+				<string>NO</string>
+				<key>Keyboard Shortcut</key>
+				<string>^s</string>
+				<key>Navigation</key>
+				<string>NO</string>
+				<key>Parent Title</key>
+				<string>Structure</string>
+				<key>Title</key>
+				<string>Shift Right</string>
+			</dict>
+		</array>
+		<key>Version</key>
+		<integer>3</integer>
+	</dict>
+	<key>Text Key Bindings</key>
+	<dict>
+		<key>Key Bindings</key>
+		<dict>
+			<key></key>
+			<array>
+				<string>moveToBeginningOfDocument:</string>
+				<string>moveToBeginningOfParagraph:</string>
+				<string>moveBackward:</string>
+				<string>moveToEndOfDocument:</string>
+			</array>
+			<key>@</key>
+			<array>
+				<string>moveToEndOfLine:</string>
+				<string>insertNewline:</string>
+			</array>
+			<key>@l</key>
+			<string>selectLine:</string>
+			<key>^$</key>
+			<array>
+				<string>selectLine:</string>
+				<string>copy:</string>
+				<string>moveToBeginningOfLine:</string>
+				<string>paste:</string>
+				<string>moveToEndOfLine:</string>
+			</array>
+			<key>^b</key>
+			<string>selectWord:</string>
+			<key>^d</key>
+			<string>deleteLine:</string>
+			<key></key>
+			<string>deleteForward:</string>
+		</dict>
+		<key>Version</key>
+		<integer>3</integer>
+	</dict>
+</dict>
+</plist>
