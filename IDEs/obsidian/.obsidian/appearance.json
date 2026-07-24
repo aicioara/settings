@@ -1,4 +1,11 @@
 {
   "accentColor": "",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "translucency": false,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dataview"
+  ]
 }

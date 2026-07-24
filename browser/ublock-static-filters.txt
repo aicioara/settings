@@ -30,6 +30,8 @@ trello.com##.collapsed-workspace-nav:style(padding-left: 0 !important;)
 
 ! 10/12/2021, 21:57:16
 trello.com##.board-header.collapsed-workspace-nav:style(padding-left: 8px !important;)
+trello.com##.board-header:style(margin-left: 0!important;)
+trello.com##.RPO6eTW4FLJhI0:style(padding: 5px!important;)
 
 ! 31/08/2018, 21:55:06
 www.amazon.co.uk##.gw-desktop-herotator
@@ -125,6 +127,7 @@ trello.com##.js-open-manage-board-members.board-header-btn-invite
 
 ! No URL resolver
 ||api-gateway.trello.com/gateway/api/object-resolver/resolve/batch^
+||trello.com/gateway/api/object-resolver/resolve/batch
 
 ! 2022-01-18 https://www.messenger.com no chat previews
 www.messenger.com##.bp9cbjyn.j83agx80.m9osqain
@@ -140,4 +143,77 @@ www.messenger.com##.qbvjirod.n68fow1o.ejhi0i36.pvreidsc.kmwttqpk.kjdc1dyq.l7ghb3
 
 ! 2022-08-24 https://app.gitbook.com
 app.gitbook.com##.r-105ug2t
+
+! 2022-10-12 https://trello.com
+trello.com##.kPNHZufBz52T4y
+
+! 2023-02-01 https://trello.com
+trello.com##.SEj5vUdI3VvxDc.bxgKMAm3lq5BpA.fZZfsmvEkemawh
+trello.com##.VwOksS_8lAPfw0.PBJZkd9ks05eX_
+trello.com##.Ed6PkWGLmx9J0S
+
+! 2023-04-15 https://trello.com
+trello.com##.IAKjjcqde7ZUZb
+
+! 2023-07-05 https://trello.com
+trello.com##.oiarmSAgGVRpKl
+
+! 2024-04-16 https://trello.com
+trello.com##.js-list-color-picker
+
+! 2024-06-22 This will stop that broken animation
+calendar.google.com##.mXmivb.ogB5bf.u4s1Oc.j0nwNb div:style(animation: none !important; transition: none !important;)
+
+! 2025-04-16 This will stop the spinner
+calendar.google.com##.WFHrpb
+
+! Jul 18, 2024 https://trello.com
+trello.com##.js-react-root > .CHBVoxKu5uKYZ7 > .css-qy0f4n
+
+! Aug 19, 2024 https://trello.com
+trello.com##.SEj5vUdI3VvxDc.bxgKMAm3lq5BpA.H2KpqQShz7Nqjb
+
+! Dec 20, 2024 https://calendar.google.com
+calendar.google.com##.APIQad.aAW7Jd.E9bth-BIzmGd-OWXEXe-X9G3K.E9bth-BIzmGd
+calendar.google.com##.LXjtcc
+
+! Dec 27, 2024 https://brettbukowski.github.io
+brettbukowski.github.io##footer
+
+! Jan 29, 2025 https://robinhood.com
+robinhood.com##.web-app-emotion-cache-1wjzu3d
+robinhood.com##.web-app-emotion-cache-1bzdayp
+
+! Feb 7, 2025 https://trello.com
+trello.com##.SEj5vUdI3VvxDc.iUcMblFAuq9LKn.bxgKMAm3lq5BpA.ebipx1HCdlU24H.Soesis69vxO9pE
+
+! Feb 23, 2025 https://mail.yahoo.com
+mail.yahoo.com##.gl_CI.ab_C.ek_BB.D_F.o_h.cYeoUG_CI.cYeoRt_C.cYeoTE_BB.c2a1BVy_F.P_1Eumrn.U_1hRcSx.b_n.fo_Z1Gyd3M
+
+! Mar 26, 2025 https://www.hellointerview.com
+www.hellointerview.com##.text-sm.justify-center.items-center.no-underline.text-white.text-center.bg-\[\#299a8d\].w-full.md\:flex.hidden
+
+! Mar 30, 2025 https://www.statshunters.com
+www.statshunters.com##.duzes
+
+! Apr 3, 2025 chrome-extension://cjpalhdlnbpafiamejdnhcphjbkeiagm
+www.hellointerview.com##.mui-1k164ws
+
+www.hellointerview.com##.mui-1e9b9g8
+
+! Apr 7, 2025 https://trello.com
+trello.com##.Lu5xaNCTMO0G0X
+! trello.com##.FOAGIKgFwAdtpQ
+trello.com##.QKpfFWf8HvDnZb
+
+! Apr 9, 2025 https://trello.com
+trello.com###ppBetaToolboxButton
+
+! May 8, 2025 https://calendar.google.com
+calendar.google.com##.APIQad.aAW7Jd.T2watc.T57Ued-BIzmGd-OWXEXe-X9G3K.T57Ued-BIzmGd
+
+! June 2 - Annoying in between cards
+trello.com##.CEjhSnb7IOaNG5:hover>.gGeIJ78ljfGpfn:style(opacity: 0 !important)
+trello.com##.CEjhSnb7IOaNG5:hover>.YGGQRDU5eWkKri:style(opacity: 0 !important)
+trello.com##.CEjhSnb7IOaNG5:hover:style(opacity: 0 !important)
 

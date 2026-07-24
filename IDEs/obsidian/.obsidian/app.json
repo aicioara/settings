@@ -1,18 +1,24 @@
 {
   "promptDelete": false,
-  "spellcheck": false,
+  "spellcheck": true,
   "autoPairBrackets": false,
-  "attachmentFolderPath": "./attachments",
+  "attachmentFolderPath": "attachments",
   "newFileLocation": "current",
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "A4",
+    "pageSize": "A5",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 75
   },
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
-  "newLinkFormat": "absolute",
-  "autoPairMarkdown": false
+  "newLinkFormat": "relative",
+  "autoPairMarkdown": false,
+  "readableLineLength": true,
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "showIndentGuide": false,
+  "alwaysUpdateLinks": true,
+  "livePreview": true
 }
