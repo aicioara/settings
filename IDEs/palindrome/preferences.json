@@ -1,0 +1,20 @@
+{
+  "ergonomy.quickactions_app_list": [
+    {
+      "app": "Finder",
+      "icon": "/System/Library/CoreServices/Finder.app/Contents/Resources/Finder.icns"
+    },
+    {
+      "app": "Sublime Text",
+      "icon": "/Applications/Sublime Text.app/Contents/Resources/Sublime Text.icns"
+    },
+    {
+      "app": "Terminal",
+      "icon": "/System/Applications/Utilities/Terminal.app/Contents/Resources/Terminal.icns"
+    }
+  ],
+  "file_pane.right_click_selects": true,
+  "general.appearance": "system",
+
+  "": ""
+}
