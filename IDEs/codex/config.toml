@@ -1,0 +1,10 @@
+model = "gpt-5.5"
+model_reasoning_effort = "xhigh"
+personality = "pragmatic"
+check_for_update_on_startup = false
+
+approval_policy = "on-failure"
+sandbox_mode = "workspace-write"
+service_tier = "priority"
+
+
