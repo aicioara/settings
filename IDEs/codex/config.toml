@@ -1,10 +1,122 @@
-model = "gpt-5.5"
-model_reasoning_effort = "xhigh"
 personality = "pragmatic"
 check_for_update_on_startup = false
 
-approval_policy = "on-failure"
+approval_policy = "on-request"
 sandbox_mode = "workspace-write"
 service_tier = "priority"
 
 
+notify = ["/Users/aicioara/.codex/computer-use/Codex Computer Use.app/Contents/SharedSupport/SkyComputerUseClient.app/Contents/MacOS/SkyComputerUseClient", "turn-ended"]
+web_search = "cached"
+
+[desktop]
+followUpQueueMode = "queue"
+conversationDetailMode = "STEPS_COMMANDS"
+ambient-suggestions-enabled = false
+projectlessWorkspaceRoot = "/Users/aicioara/dev/codex/projectless"
+localeOverride = "en-US"
+mac-menu-bar-enabled = false
+composerPlainTextMode = true
+show-context-window-usage = true
+appearanceTheme = "dark"
+appearanceDarkCodeThemeId = "dracula"
+pagesSmartPunctuationEnabled = false
+dock-icon-preference = "codex-system"
+useFontSmoothing = true
+usePointerCursors = true
+appearanceDiffMarkerStyle = "color"
+enabled-reasoning-efforts = ["low", "medium", "high", "xhigh", "ultra", "persistent"]
+appshotSoundEnabled = true
+open-link-in-target-preference = "external-browser"
+open-local-url-in-target-preference = "external-browser"
+browser-show-full-url = true
+git-pull-request-merge-method = "squash"
+worktree-auto-cleanup-enabled = false
+
+[desktop.appearanceDarkChromeTheme]
+accent = "#ff79c6"
+accentSource = "custom"
+contrast = 60
+ink = "#f8f8f2"
+opaqueWindows = false
+surface = "#282a36"
+
+[desktop.appearanceDarkChromeTheme.fonts]
+
+[desktop.appearanceDarkChromeTheme.semanticColors]
+diffAdded = "#50fa7b"
+diffRemoved = "#ff5555"
+skill = "#ff79c6"
+
+[marketplaces.openai-bundled]
+source_type = "local"
+source = "/Users/aicioara/.codex/.tmp/bundled-marketplaces/openai-bundled"
+
+[marketplaces.openai-primary-runtime]
+source_type = "local"
+source = "/Users/aicioara/.cache/codex-runtimes/codex-primary-runtime/plugins/openai-primary-runtime"
+
+[plugins."codex-app-tools@openai-bundled"]
+enabled = true
+
+[plugins."browser@openai-bundled"]
+enabled = true
+
+[plugins."unified-computer-use@openai-bundled"]
+enabled = true
+
+[plugins."code-review@openai-bundled"]
+enabled = true
+
+[plugins."visualize@openai-bundled"]
+enabled = true
+
+[plugins."computer-use@openai-bundled"]
+enabled = false
+
+[plugins."documents@openai-primary-runtime"]
+enabled = true
+
+[plugins."pdf@openai-primary-runtime"]
+enabled = true
+
+[plugins."spreadsheets@openai-primary-runtime"]
+enabled = true
+
+[plugins."presentations@openai-primary-runtime"]
+enabled = true
+
+[plugins."template-creator@openai-primary-runtime"]
+enabled = true
+
+[mcp_servers.node_repl]
+args = []
+command = "/Applications/ChatGPT.app/Contents/Resources/cua_node/bin/node_repl"
+startup_timeout_sec = 120
+
+[mcp_servers.node_repl.env]
+NODE_REPL_NATIVE_PIPE_CONNECT_TIMEOUT_MS = "1000"
+NODE_REPL_NODE_MODULE_DIRS = "/Applications/ChatGPT.app/Contents/Resources/cua_node/lib/node_modules"
+NODE_REPL_NODE_PATH = "/Applications/ChatGPT.app/Contents/Resources/cua_node/bin/node"
+NODE_REPL_TRUSTED_CODE_PATHS = "/Users/aicioara/.codex:/Applications/ChatGPT.app/Contents/Resources/cua_node/lib/node_modules"
+CODEX_HOME = "/Users/aicioara/.codex"
+BROWSER_USE_AVAILABLE_BACKENDS = "chrome,iab,mcpapps"
+BROWSER_USE_TINYSKY_ENABLED = "1"
+NODE_REPL_INSTRUCTIONS_USE_CASE_BROWSER = ""
+NODE_REPL_INSTRUCTIONS_USE_CASE_CHROME = ""
+BROWSER_USE_CODEX_APP_BUILD_FLAVOR = "prod"
+BROWSER_USE_CODEX_APP_VERSION = "26.930.31730"
+NODE_REPL_TRUSTED_SERVICES = '{"browser":"/Users/aicioara/.codex/plugins/cache/openai-bundled/browser/26.930.31730/scripts/browser-service.mjs"}'
+CODEX_CLI_PATH = "/Applications/ChatGPT.app/Contents/Resources/codex-cli/CodexCLI.app/Contents/MacOS/codex"
+
+[features]
+local_thread_store_compression = true
+
+[sandbox_workspace_write]
+network_access = true
+
+[apps.connector_openai_chatgpt_pets]
+enabled = false
+
+[apps.connector_openai_codex_document_control]
+enabled = false
